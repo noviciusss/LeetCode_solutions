@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/noviciusss/LeetCode_solutions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/noviciusss/LeetCode_solutions/tree/master/0792-binary-search) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/noviciusss/LeetCode_solutions/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
