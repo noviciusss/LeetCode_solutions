@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/noviciusss/LeetCode_solutions/tree/master/0058-length-of-last-word) |
+| [0520-detect-capital](https://github.com/noviciusss/LeetCode_solutions/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/noviciusss/LeetCode_solutions/tree/master/0742-to-lower-case) |
 ## Dynamic Programming
 |  |
