@@ -18,26 +18,20 @@ public:
         
         while (current) {
             ListNode* nextTemp = current->next;
-            
             current->next = prev;
-            
             prev = current;
             current = nextTemp;
         }
-        
         return prev;
     }
 };
-
 ListNode* createList(std::vector<int> values) {
     ListNode* dummy = new ListNode(0);
-    ListNode* current = dummy;
-    
+    ListNode* current = dummy;   
     for (int val : values) {
         current->next = new ListNode(val);
         current = current->next;
-    }
-    
+    }    
     ListNode* result = dummy->next;
     delete dummy;
     return result;
