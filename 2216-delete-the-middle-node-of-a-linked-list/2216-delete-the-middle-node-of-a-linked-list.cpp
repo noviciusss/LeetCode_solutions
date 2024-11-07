@@ -17,7 +17,7 @@ public:
             cnt++;
             temp=temp->next;
         }
-        int mdl= (cnt/2);
+        int mdl= (cnt/2); //so take cnt/2 rather than cnt/2+1
         if(cnt==1) return nullptr;
         temp=head;
         ListNode* prev = nullptr;
