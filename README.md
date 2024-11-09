@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/noviciusss/LeetCode_solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0268-missing-number) |
+| [2556-convert-the-temperature](https://github.com/noviciusss/LeetCode_solutions/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/noviciusss/LeetCode_solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
