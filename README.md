@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/noviciusss/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/noviciusss/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/noviciusss/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/noviciusss/LeetCode_solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/noviciusss/LeetCode_solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/noviciusss/LeetCode_solutions/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/noviciusss/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/noviciusss/LeetCode_solutions/tree/master/0283-move-zeroes) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/noviciusss/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/noviciusss/LeetCode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
