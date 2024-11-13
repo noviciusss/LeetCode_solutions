@@ -23,9 +23,8 @@ public:
     }
     
     int top() {
-        // int frnt1= q.front();
-        // return frnt1;
-        return q.front();
+        int frnt1= q.front();
+        return frnt1;
     }
     
     bool empty() {
