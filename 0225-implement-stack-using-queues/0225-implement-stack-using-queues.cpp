@@ -28,11 +28,11 @@ public:
     }
     
     bool empty() {
-        if(q.size()==0){
-            return true;
-        }
-        return false;
-    }
+        // if(q.size()==0){
+        //     return true;
+        // }
+        // return false;
+        return q.empty();    }
 };
 
 /**
