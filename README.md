@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/noviciusss/LeetCode_solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/noviciusss/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1646-kth-missing-positive-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/noviciusss/LeetCode_solutions/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/noviciusss/LeetCode_solutions/tree/master/3194-find-words-containing-character) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/noviciusss/LeetCode_solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/noviciusss/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1646-kth-missing-positive-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1646-kth-missing-positive-number) |
 ## String
 |  |
 | ------- |
