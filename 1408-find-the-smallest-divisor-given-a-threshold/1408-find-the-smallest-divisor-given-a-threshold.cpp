@@ -8,7 +8,6 @@ public:
         return sum;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
-        if(nums.size()>threshold){return -1;}
         sort(nums.begin(),nums.end());
         int low=1;int high=nums[nums.size()-1];
         while(low<=high){
