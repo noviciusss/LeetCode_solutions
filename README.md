@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/noviciusss/LeetCode_solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/noviciusss/LeetCode_solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/noviciusss/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/noviciusss/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/noviciusss/LeetCode_solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/noviciusss/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/noviciusss/LeetCode_solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/noviciusss/LeetCode_solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
