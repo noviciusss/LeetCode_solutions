@@ -14,7 +14,7 @@ public:
         for(int i=1;i<n;i++){
             if(nums[i]==nums[i-1]){count+=1;}
             else{count =1;}
-            if(count>chk && find(ans.begin(), ans.end(), nums[i]) == ans.end() ){ans.push_back(nums[i]);}
+            if(count>chk && find(ans.begin(), ans.end(), nums[i]) == ans.end() ){ans.push_back(nums[i]);} //find is used for chk duplicates
         }return ans;
 
     }
