@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/noviciusss/LeetCode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2727-number-of-senior-citizens](https://github.com/noviciusss/LeetCode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/noviciusss/LeetCode_solutions/tree/master/3194-find-words-containing-character) |
+| [3429-special-array-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/noviciusss/LeetCode_solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
