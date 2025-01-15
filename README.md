@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/noviciusss/LeetCode_solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/noviciusss/LeetCode_solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/noviciusss/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/noviciusss/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/noviciusss/LeetCode_solutions/tree/master/0075-sort-colors) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/noviciusss/LeetCode_solutions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/noviciusss/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
