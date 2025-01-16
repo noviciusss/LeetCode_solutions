@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/noviciusss/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/noviciusss/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/noviciusss/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/noviciusss/LeetCode_solutions/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/noviciusss/LeetCode_solutions/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/noviciusss/LeetCode_solutions/tree/master/0742-to-lower-case) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/noviciusss/LeetCode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noviciusss/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/noviciusss/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/noviciusss/LeetCode_solutions/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/noviciusss/LeetCode_solutions/tree/master/1086-divisor-game) |
 ## Linked List
