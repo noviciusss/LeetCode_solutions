@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/noviciusss/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/noviciusss/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noviciusss/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/noviciusss/LeetCode_solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/noviciusss/LeetCode_solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/noviciusss/LeetCode_solutions/tree/master/0907-koko-eating-bananas) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/noviciusss/LeetCode_solutions/tree/master/1791-richest-customer-wealth) |
 ## Prefix Sum
 |  |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0948-sort-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/noviciusss/LeetCode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
