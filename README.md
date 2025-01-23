@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/noviciusss/LeetCode_solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/noviciusss/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/noviciusss/LeetCode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/noviciusss/LeetCode_solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
