@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/noviciusss/LeetCode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/noviciusss/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/noviciusss/LeetCode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1580-shuffle-the-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/noviciusss/LeetCode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1646-kth-missing-positive-number) |
