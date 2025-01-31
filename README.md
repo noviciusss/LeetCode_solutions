@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/noviciusss/LeetCode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/noviciusss/LeetCode_solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/noviciusss/LeetCode_solutions/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1013-fibonacci-number) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/noviciusss/LeetCode_solutions/tree/master/0342-power-of-four) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/noviciusss/LeetCode_solutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Enumeration
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/noviciusss/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/noviciusss/LeetCode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/noviciusss/LeetCode_solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
