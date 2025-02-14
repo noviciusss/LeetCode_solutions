@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/noviciusss/LeetCode_solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/noviciusss/LeetCode_solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/noviciusss/LeetCode_solutions/tree/master/0075-sort-colors) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/noviciusss/LeetCode_solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/noviciusss/LeetCode_solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0392-is-subsequence) |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/noviciusss/LeetCode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/noviciusss/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
