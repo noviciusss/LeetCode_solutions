@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/noviciusss/LeetCode_solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/noviciusss/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/noviciusss/LeetCode_solutions/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/noviciusss/LeetCode_solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/noviciusss/LeetCode_solutions/tree/master/0231-power-of-two) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/noviciusss/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/noviciusss/LeetCode_solutions/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/noviciusss/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0392-is-subsequence) |
