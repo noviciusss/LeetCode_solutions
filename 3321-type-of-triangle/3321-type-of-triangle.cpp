@@ -12,5 +12,6 @@ public:
         if(chk==1)return "equilateral";
         if(chk==2)return "isosceles";
         return "scalene";
+        // ham isme simple if and/ot statements se less space se bhi karsakte hai
     }
 };
