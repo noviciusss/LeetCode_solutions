@@ -7,7 +7,7 @@ public:
               result.push_back(i);
         }
     }
-    return result;   
+    return result;   
 
     }
 };
