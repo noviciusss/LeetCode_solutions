@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/noviciusss/LeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/noviciusss/LeetCode_solutions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/noviciusss/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/noviciusss/LeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/noviciusss/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/noviciusss/LeetCode_solutions/tree/master/0058-length-of-last-word) |
@@ -476,5 +478,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/noviciusss/LeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/noviciusss/LeetCode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
