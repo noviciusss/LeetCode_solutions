@@ -12,7 +12,6 @@ public:
                 if(nums[left]==0){
                     zero--;
                 }
-
                 left++;
             }
             maxlength=max(maxlength,right-left+1);
