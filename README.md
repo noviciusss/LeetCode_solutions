@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/noviciusss/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/noviciusss/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/noviciusss/LeetCode_solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/noviciusss/LeetCode_solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noviciusss/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/noviciusss/LeetCode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/noviciusss/LeetCode_solutions/tree/master/0231-power-of-two) |
@@ -522,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/noviciusss/LeetCode_solutions/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/noviciusss/LeetCode_solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/noviciusss/LeetCode_solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
