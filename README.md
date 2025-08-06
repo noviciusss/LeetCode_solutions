@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/noviciusss/LeetCode_solutions/tree/master/0342-power-of-four) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/noviciusss/LeetCode_solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
