@@ -4,8 +4,8 @@ public:
         sort(nums.begin(),nums.end());
         int chk=nums[nums.size()/2];
         int ans=0;
-        for(int i=0;i<nums.size();i++){
-            ans+=abs(nums[i]-chk);
+        for(auto it:nums){
+            ans+=abs(it-chk);
         }
         return ans;
     }
