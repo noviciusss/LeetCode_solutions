@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/noviciusss/LeetCode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/noviciusss/LeetCode_solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/noviciusss/LeetCode_solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1585-the-kth-factor-of-n](https://github.com/noviciusss/LeetCode_solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/noviciusss/LeetCode_solutions/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/noviciusss/LeetCode_solutions/tree/master/2083-three-divisors) |
