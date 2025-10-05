@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/noviciusss/LeetCode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/noviciusss/LeetCode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/noviciusss/LeetCode_solutions/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/noviciusss/LeetCode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/noviciusss/LeetCode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/noviciusss/LeetCode_solutions/tree/master/1791-richest-customer-wealth) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/noviciusss/LeetCode_solutions/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/noviciusss/LeetCode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/noviciusss/LeetCode_solutions/tree/master/1833-find-the-highest-altitude) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/noviciusss/LeetCode_solutions/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
