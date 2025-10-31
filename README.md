@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/noviciusss/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/noviciusss/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/noviciusss/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noviciusss/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/noviciusss/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/noviciusss/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/noviciusss/LeetCode_solutions/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/noviciusss/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noviciusss/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/noviciusss/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Geometry
