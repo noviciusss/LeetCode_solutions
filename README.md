@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/noviciusss/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noviciusss/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/noviciusss/LeetCode_solutions/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/noviciusss/LeetCode_solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/noviciusss/LeetCode_solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/noviciusss/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0948-sort-an-array) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/noviciusss/LeetCode_solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/noviciusss/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noviciusss/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0890-lemonade-change](https://github.com/noviciusss/LeetCode_solutions/tree/master/0890-lemonade-change) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/noviciusss/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Geometry
 |  |
