@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/noviciusss/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/noviciusss/LeetCode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/noviciusss/LeetCode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/noviciusss/LeetCode_solutions/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/noviciusss/LeetCode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/noviciusss/LeetCode_solutions/tree/master/1349-check-if-it-is-a-straight-line) |
