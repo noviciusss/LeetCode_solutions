@@ -16,10 +16,10 @@ public:
         postorder(root,ans);
         return ans;
     }
-    void postorder(TreeNode *rt,vector<int>& as){
-        if(rt==nullptr)return ;
-        postorder(rt->left,as);
-        postorder(rt->right,as);
-        as.push_back(rt->val);
+    void postorder(TreeNode* root,vector<int>& ans){
+        if(root==nullptr)return;
+        postorder(root->left,ans);
+        postorder(root->right,ans);
+        ans.push_back(root->val);
     }
 };
