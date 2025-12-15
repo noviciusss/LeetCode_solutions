@@ -16,10 +16,10 @@ public:
         inorder(root,ans);
         return ans;
     }
-    void inorder(TreeNode *a,vector<int>& as){
-        if(a==nullptr)return;
-        inorder(a->left,as);
-        as.push_back(a->val);
-        inorder(a->right,as);
+    void inorder(TreeNode* rot,vector<int>& as){
+        if(rot==nullptr)return;
+        inorder(rot->left,as);
+        as.push_back(rot->val);
+        inorder(rot->right,as);
     }
 };
