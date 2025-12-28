@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/noviciusss/LeetCode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/noviciusss/LeetCode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/noviciusss/LeetCode_solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/noviciusss/LeetCode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/noviciusss/LeetCode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/noviciusss/LeetCode_solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/noviciusss/LeetCode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/noviciusss/LeetCode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/noviciusss/LeetCode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/noviciusss/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1646-kth-missing-positive-number) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/noviciusss/LeetCode_solutions/tree/master/1791-richest-customer-wealth) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/noviciusss/LeetCode_solutions/tree/master/2508-maximum-sum-of-an-hourglass) |
