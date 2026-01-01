@@ -1,12 +1,9 @@
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
-        int siz = digits.size();
-        for(int i=siz-1;i>=0;i--){
-            if(digits[i]<9){
-                digits[i]+=1;
-                return digits;
-            }
+        int ans=0;
+        for(int i = digits.size()-1;i>=0;i--){
+            if(digits[i]<9){digits[i]+=1;return digits;}
             digits[i]=0;
         }
         digits.insert(digits.begin(),1);
