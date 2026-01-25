@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/noviciusss/LeetCode_solutions/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/noviciusss/LeetCode_solutions/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/noviciusss/LeetCode_solutions/tree/master/1833-find-the-highest-altitude) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/noviciusss/LeetCode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/noviciusss/LeetCode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/noviciusss/LeetCode_solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1585-the-kth-factor-of-n](https://github.com/noviciusss/LeetCode_solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/noviciusss/LeetCode_solutions/tree/master/1635-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/noviciusss/LeetCode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/noviciusss/LeetCode_solutions/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/noviciusss/LeetCode_solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/noviciusss/LeetCode_solutions/tree/master/2491-smallest-even-multiple) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/noviciusss/LeetCode_solutions/tree/master/0342-power-of-four) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/noviciusss/LeetCode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/noviciusss/LeetCode_solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/noviciusss/LeetCode_solutions/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/noviciusss/LeetCode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/noviciusss/LeetCode_solutions/tree/master/2083-three-divisors) |
 | [3221-find-the-peaks](https://github.com/noviciusss/LeetCode_solutions/tree/master/3221-find-the-peaks) |
 ## Number Theory
@@ -618,8 +622,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/noviciusss/LeetCode_solutions/tree/master/0078-subsets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/noviciusss/LeetCode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/noviciusss/LeetCode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/noviciusss/LeetCode_solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
