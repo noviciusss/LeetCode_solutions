@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/noviciusss/LeetCode_solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/noviciusss/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0260-single-number-iii) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/noviciusss/LeetCode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0216-combination-sum-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/noviciusss/LeetCode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
