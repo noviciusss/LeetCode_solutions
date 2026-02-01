@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/noviciusss/LeetCode_solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/noviciusss/LeetCode_solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/noviciusss/LeetCode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/noviciusss/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-find-words-containing-character](https://github.com/noviciusss/LeetCode_solutions/tree/master/3194-find-words-containing-character) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/noviciusss/LeetCode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/noviciusss/LeetCode_solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/noviciusss/LeetCode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/noviciusss/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3321-type-of-triangle](https://github.com/noviciusss/LeetCode_solutions/tree/master/3321-type-of-triangle) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/noviciusss/LeetCode_solutions/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/noviciusss/LeetCode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/noviciusss/LeetCode_solutions/tree/master/2083-three-divisors) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3221-find-the-peaks](https://github.com/noviciusss/LeetCode_solutions/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
