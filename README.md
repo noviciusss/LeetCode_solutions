@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/noviciusss/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/noviciusss/LeetCode_solutions/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/noviciusss/LeetCode_solutions/tree/master/0742-to-lower-case) |
+| [0796-rotate-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/0796-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/noviciusss/LeetCode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/noviciusss/LeetCode_solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/noviciusss/LeetCode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
