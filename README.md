@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/noviciusss/LeetCode_solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/noviciusss/LeetCode_solutions/tree/master/0735-asteroid-collision) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/noviciusss/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/noviciusss/LeetCode_solutions/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/noviciusss/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/noviciusss/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0621-task-scheduler](https://github.com/noviciusss/LeetCode_solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noviciusss/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0948-sort-an-array) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/noviciusss/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/noviciusss/LeetCode_solutions/tree/master/0621-task-scheduler) |
 | [1364-tuple-with-same-product](https://github.com/noviciusss/LeetCode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1635-number-of-good-pairs](https://github.com/noviciusss/LeetCode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/noviciusss/LeetCode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/noviciusss/LeetCode_solutions/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0948-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/noviciusss/LeetCode_solutions/tree/master/1046-last-stone-weight) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/noviciusss/LeetCode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -556,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/noviciusss/LeetCode_solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/noviciusss/LeetCode_solutions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/noviciusss/LeetCode_solutions/tree/master/0621-task-scheduler) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noviciusss/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/noviciusss/LeetCode_solutions/tree/master/0890-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/1903-largest-odd-number-in-string) |
