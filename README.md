@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/noviciusss/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noviciusss/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/noviciusss/LeetCode_solutions/tree/master/0792-binary-search) |
+| [0846-hand-of-straights](https://github.com/noviciusss/LeetCode_solutions/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/noviciusss/LeetCode_solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/noviciusss/LeetCode_solutions/tree/master/0907-koko-eating-bananas) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/noviciusss/LeetCode_solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/noviciusss/LeetCode_solutions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/noviciusss/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/noviciusss/LeetCode_solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noviciusss/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0846-hand-of-straights](https://github.com/noviciusss/LeetCode_solutions/tree/master/0846-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/noviciusss/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/noviciusss/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/noviciusss/LeetCode_solutions/tree/master/0621-task-scheduler) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noviciusss/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0846-hand-of-straights](https://github.com/noviciusss/LeetCode_solutions/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/noviciusss/LeetCode_solutions/tree/master/0890-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/noviciusss/LeetCode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
