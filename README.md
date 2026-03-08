@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/noviciusss/LeetCode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2058-concatenation-of-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/noviciusss/LeetCode_solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/noviciusss/LeetCode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/noviciusss/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/noviciusss/LeetCode_solutions/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/noviciusss/LeetCode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/noviciusss/LeetCode_solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/noviciusss/LeetCode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/noviciusss/LeetCode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/noviciusss/LeetCode_solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/noviciusss/LeetCode_solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2727-number-of-senior-citizens](https://github.com/noviciusss/LeetCode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/noviciusss/LeetCode_solutions/tree/master/3194-find-words-containing-character) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0216-combination-sum-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/noviciusss/LeetCode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1980-find-unique-binary-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 ## Combinatorics
 |  |
 | ------- |
