@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/noviciusss/LeetCode_solutions/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/noviciusss/LeetCode_solutions/tree/master/0397-integer-replacement) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/noviciusss/LeetCode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/noviciusss/LeetCode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/noviciusss/LeetCode_solutions/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/noviciusss/LeetCode_solutions/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/noviciusss/LeetCode_solutions/tree/master/1086-divisor-game) |
 ## Linked List
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/noviciusss/LeetCode_solutions/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/noviciusss/LeetCode_solutions/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/noviciusss/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0397-integer-replacement](https://github.com/noviciusss/LeetCode_solutions/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/noviciusss/LeetCode_solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/noviciusss/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/noviciusss/LeetCode_solutions/tree/master/0621-task-scheduler) |
