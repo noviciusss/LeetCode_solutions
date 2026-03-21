@@ -11,29 +11,14 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if (!head || !head->next) return head;
-        
+        ListNode* temp = head;
         ListNode* prev = nullptr;
-        ListNode* current = head;
-        
-        while (current) {
-            ListNode* nextTemp = current->next;
-            current->next = prev;
-            prev = current;
-            current = nextTemp;
+        while(temp!=nullptr){
+            ListNode* nextNode = temp->next;
+            temp->next = prev;
+            prev=temp;
+            temp = nextNode;
         }
         return prev;
     }
 };
-ListNode* createList(std::vector<int> values) {
-    ListNode* dummy = new ListNode(0);
-    ListNode* current = dummy;   
-    for (int val : values) {
-        current->next = new ListNode(val);
-        current = current->next;
-    }    
-    ListNode* result = dummy->next;
-    delete dummy;
-    return result;
-}
-
