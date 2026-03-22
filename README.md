@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/noviciusss/LeetCode_solutions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/noviciusss/LeetCode_solutions/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0509-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/noviciusss/LeetCode_solutions/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/noviciusss/LeetCode_solutions/tree/master/0397-integer-replacement) |
+| [0509-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/noviciusss/LeetCode_solutions/tree/master/1086-divisor-game) |
 ## Linked List
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/noviciusss/LeetCode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/noviciusss/LeetCode_solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/noviciusss/LeetCode_solutions/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/noviciusss/LeetCode_solutions/tree/master/0397-integer-replacement) |
+| [0509-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
