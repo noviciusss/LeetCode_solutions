@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/noviciusss/LeetCode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/noviciusss/LeetCode_solutions/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2540-minimum-common-value](https://github.com/noviciusss/LeetCode_solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/noviciusss/LeetCode_solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/noviciusss/LeetCode_solutions/tree/master/2727-number-of-senior-citizens) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/noviciusss/LeetCode_solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/noviciusss/LeetCode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/noviciusss/LeetCode_solutions/tree/master/2540-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/noviciusss/LeetCode_solutions/tree/master/2784-check-if-array-is-good) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/noviciusss/LeetCode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/noviciusss/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/noviciusss/LeetCode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/noviciusss/LeetCode_solutions/tree/master/2540-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/noviciusss/LeetCode_solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/noviciusss/LeetCode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/noviciusss/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1646-kth-missing-positive-number) |
+| [2540-minimum-common-value](https://github.com/noviciusss/LeetCode_solutions/tree/master/2540-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/noviciusss/LeetCode_solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
