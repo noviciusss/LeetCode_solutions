@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/noviciusss/LeetCode_solutions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/noviciusss/LeetCode_solutions/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/noviciusss/LeetCode_solutions/tree/master/2752-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/noviciusss/LeetCode_solutions/tree/master/3321-type-of-triangle) |
