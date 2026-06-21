@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/noviciusss/LeetCode_solutions/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/noviciusss/LeetCode_solutions/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/noviciusss/LeetCode_solutions/tree/master/1833-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/noviciusss/LeetCode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/noviciusss/LeetCode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/noviciusss/LeetCode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/noviciusss/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/noviciusss/LeetCode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/noviciusss/LeetCode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/noviciusss/LeetCode_solutions/tree/master/2784-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/noviciusss/LeetCode_solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0948-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/noviciusss/LeetCode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/noviciusss/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/noviciusss/LeetCode_solutions/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/noviciusss/LeetCode_solutions/tree/master/0890-lemonade-change) |
+| [1833-maximum-ice-cream-bars](https://github.com/noviciusss/LeetCode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/noviciusss/LeetCode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/noviciusss/LeetCode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/noviciusss/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
