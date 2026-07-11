@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/noviciusss/LeetCode_solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/noviciusss/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/noviciusss/LeetCode_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/noviciusss/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/noviciusss/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/noviciusss/LeetCode_solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/noviciusss/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/noviciusss/LeetCode_solutions/tree/master/0735-asteroid-collision) |
