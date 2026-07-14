@@ -9,6 +9,7 @@ class Solution:
         for i in range(n-2,-1,-1):
             suffix[i] = suffix[i+1]*nums[i+1]
         
+        # so other options best one is suff = 1 then for i from n-1 res[i]*suff and suff * nums[i]
         for i in range(n):
             ans[i] = prefix[i]*suffix[i]
         return ans
