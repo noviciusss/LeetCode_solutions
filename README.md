@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/noviciusss/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/noviciusss/LeetCode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/noviciusss/LeetCode_solutions/tree/master/1046-last-stone-weight) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/noviciusss/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/noviciusss/LeetCode_solutions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/noviciusss/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/noviciusss/LeetCode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/1480-running-sum-of-1d-array) |
