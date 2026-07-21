@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/noviciusss/LeetCode_solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/noviciusss/LeetCode_solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/noviciusss/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/noviciusss/LeetCode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/noviciusss/LeetCode_solutions/tree/master/0724-find-pivot-index) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/noviciusss/LeetCode_solutions/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/noviciusss/LeetCode_solutions/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/noviciusss/LeetCode_solutions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/noviciusss/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/noviciusss/LeetCode_solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/noviciusss/LeetCode_solutions/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noviciusss/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/noviciusss/LeetCode_solutions/tree/master/0846-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0948-sort-an-array) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/noviciusss/LeetCode_solutions/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/noviciusss/LeetCode_solutions/tree/master/0397-integer-replacement) |
+| [0645-set-mismatch](https://github.com/noviciusss/LeetCode_solutions/tree/master/0645-set-mismatch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/noviciusss/LeetCode_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
