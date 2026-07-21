@@ -10,5 +10,6 @@ class Solution:
                 dupl = i
             elif cnt[i]==0:
                 miss = i
-
+            if dupl!=-1 and miss!=-1:
+                break
         return [dupl,miss]
