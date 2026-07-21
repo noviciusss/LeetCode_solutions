@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/noviciusss/LeetCode_solutions/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/noviciusss/LeetCode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1441-build-an-array-with-stack-operations](https://github.com/noviciusss/LeetCode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/noviciusss/LeetCode_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/1470-shuffle-the-array) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/noviciusss/LeetCode_solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/noviciusss/LeetCode_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/noviciusss/LeetCode_solutions/tree/master/0735-asteroid-collision) |
+| [1441-build-an-array-with-stack-operations](https://github.com/noviciusss/LeetCode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/noviciusss/LeetCode_solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/noviciusss/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noviciusss/LeetCode_solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/noviciusss/LeetCode_solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/noviciusss/LeetCode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/noviciusss/LeetCode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/noviciusss/LeetCode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
