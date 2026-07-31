@@ -877,4 +877,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/noviciusss/LeetCode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/noviciusss/LeetCode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/noviciusss/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/noviciusss/LeetCode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
