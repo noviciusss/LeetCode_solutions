@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/noviciusss/LeetCode_solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/noviciusss/LeetCode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3689-maximum-total-subarray-value-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/noviciusss/LeetCode_solutions/tree/master/3731-find-missing-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/noviciusss/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/noviciusss/LeetCode_solutions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/noviciusss/LeetCode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/noviciusss/LeetCode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/noviciusss/LeetCode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-find-missing-elements](https://github.com/noviciusss/LeetCode_solutions/tree/master/3731-find-missing-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/noviciusss/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/noviciusss/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3321-type-of-triangle](https://github.com/noviciusss/LeetCode_solutions/tree/master/3321-type-of-triangle) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/noviciusss/LeetCode_solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/noviciusss/LeetCode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
