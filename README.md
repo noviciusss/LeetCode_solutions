@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/noviciusss/LeetCode_solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/noviciusss/LeetCode_solutions/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/noviciusss/LeetCode_solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/noviciusss/LeetCode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/noviciusss/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/noviciusss/LeetCode_solutions/tree/master/0735-asteroid-collision) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/noviciusss/LeetCode_solutions/tree/master/0695-max-area-of-island) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/noviciusss/LeetCode_solutions/tree/master/1791-richest-customer-wealth) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/noviciusss/LeetCode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/noviciusss/LeetCode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/noviciusss/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/noviciusss/LeetCode_solutions/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/noviciusss/LeetCode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/noviciusss/LeetCode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/noviciusss/LeetCode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0695-max-area-of-island](https://github.com/noviciusss/LeetCode_solutions/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/noviciusss/LeetCode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## String Matching
 |  |
@@ -879,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/noviciusss/LeetCode_solutions/tree/master/0695-max-area-of-island) |
 ## Trie
 |  |
 | ------- |
