@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/noviciusss/LeetCode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/noviciusss/LeetCode_solutions/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/noviciusss/LeetCode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/noviciusss/LeetCode_solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/noviciusss/LeetCode_solutions/tree/master/1364-tuple-with-same-product) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/noviciusss/LeetCode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/noviciusss/LeetCode_solutions/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/noviciusss/LeetCode_solutions/tree/master/1791-richest-customer-wealth) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/noviciusss/LeetCode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/noviciusss/LeetCode_solutions/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/noviciusss/LeetCode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/noviciusss/LeetCode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/noviciusss/LeetCode_solutions/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/noviciusss/LeetCode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/1254-number-of-closed-islands) |
 ## String Matching
 |  |
 | ------- |
@@ -888,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/noviciusss/LeetCode_solutions/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/1254-number-of-closed-islands) |
 ## Trie
 |  |
 | ------- |
