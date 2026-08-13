@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/noviciusss/LeetCode_solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/noviciusss/LeetCode_solutions/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/noviciusss/LeetCode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/noviciusss/LeetCode_solutions/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/noviciusss/LeetCode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/noviciusss/LeetCode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/noviciusss/LeetCode_solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/noviciusss/LeetCode_solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/noviciusss/LeetCode_solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/noviciusss/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/noviciusss/LeetCode_solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/noviciusss/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/noviciusss/LeetCode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/noviciusss/LeetCode_solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/noviciusss/LeetCode_solutions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/noviciusss/LeetCode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/noviciusss/LeetCode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/noviciusss/LeetCode_solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/noviciusss/LeetCode_solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/noviciusss/LeetCode_solutions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/noviciusss/LeetCode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/1254-number-of-closed-islands) |
 ## String Matching
@@ -901,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/noviciusss/LeetCode_solutions/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/noviciusss/LeetCode_solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/noviciusss/LeetCode_solutions/tree/master/1254-number-of-closed-islands) |
 ## Trie
 |  |
