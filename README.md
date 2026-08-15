@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/noviciusss/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/noviciusss/LeetCode_solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/noviciusss/LeetCode_solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/noviciusss/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/noviciusss/LeetCode_solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/noviciusss/LeetCode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/noviciusss/LeetCode_solutions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/noviciusss/LeetCode_solutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/noviciusss/LeetCode_solutions/tree/master/0742-to-lower-case) |
