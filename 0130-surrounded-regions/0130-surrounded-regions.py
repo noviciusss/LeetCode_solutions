@@ -1,28 +1,31 @@
+from collections import deque
 class Solution:
     def solve(self, board: List[List[str]]) -> None:
         """
         Do not return anything, modify board in-place instead.
         """
-        
         row = len(board)
         col = len(board[0])
-        def dfs(ro,co): # marking the 0 at eadges to e to make it safe
-          if ro<0 or ro>=row or co<0 or co>=col or board[ro][co]!='O':
-            return 
-          board[ro][co] = 'E' # so any cell connected to eadge cell is also safe 
-          dfs(ro-1,co)
-          dfs(ro+1,co)
-          dfs(ro,co+1)
-          dfs(ro,co-1)
-        for ro in range(row):
-            for co in range(col):
-                if (ro==0 or ro == row-1 or co == 0 or co == col-1 ) and board[ro][co]=='O':
-                    dfs(ro,co)
-        for ro in range(row):
-            for co in range(col):
-                if board[ro][co]=='O':
-                    board[ro][co]='X'
-                if board[ro][co]=='E':
-                    board[ro][co]='O'
+        que = deque()
+        move = [(0,1),(0,-1),(-1,0),(1,0)]
+        for r in range(row):
+            for c in range(col):
+                if (r==0 or r==row-1 or c==0 or c==col-1)and board[r][c]=='O':
+                    board[r][c]='E'
+                    que.append((r,c))
 
+        while que:
+            ro , co = que.popleft()
+            for r,c in move:
+                n = r+ro
+                l = c+co
+                if 0<= n < row and 0 <= l< col and board[n][l]=='O':
+                    board[n][l]='E'
+                    que.append((n,l))
+        for r in range(row):
+            for c in range(col):
+                if board[r][c]=='O':
+                    board[r][c]='X'
+                if board[r][c]=='E':
+                    board[r][c]='O'
         
