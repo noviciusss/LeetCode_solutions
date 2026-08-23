@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/noviciusss/LeetCode_solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/noviciusss/LeetCode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noviciusss/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/noviciusss/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/noviciusss/LeetCode_solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/noviciusss/LeetCode_solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/noviciusss/LeetCode_solutions/tree/master/0169-majority-element) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/noviciusss/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/noviciusss/LeetCode_solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/noviciusss/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/noviciusss/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/noviciusss/LeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/noviciusss/LeetCode_solutions/tree/master/0143-reorder-list) |
