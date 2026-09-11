@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3429-special-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/noviciusss/LeetCode_solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/noviciusss/LeetCode_solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/noviciusss/LeetCode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3689-maximum-total-subarray-value-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/noviciusss/LeetCode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/noviciusss/LeetCode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3483-unique-3-digit-even-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/noviciusss/LeetCode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/noviciusss/LeetCode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/noviciusss/LeetCode_solutions/tree/master/3731-find-missing-elements) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3221-find-the-peaks](https://github.com/noviciusss/LeetCode_solutions/tree/master/3221-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/noviciusss/LeetCode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/noviciusss/LeetCode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/noviciusss/LeetCode_solutions/tree/master/1013-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/noviciusss/LeetCode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
